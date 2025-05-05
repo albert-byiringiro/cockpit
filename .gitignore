@@ -91,3 +91,6 @@ Makefile.in
 /tools/missing
 /tools/py-compile
 /tools/test-driver
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
